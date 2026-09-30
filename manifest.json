@@ -1,0 +1,22 @@
+{
+  "id": "/myfeed.html",
+  "name": "Ya Aleem",
+  "short_name": "Ya Aleem",
+  "description": "Ya Aleem feed reader: posts, reels and stories in one place.",
+  "start_url": "./myfeed.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F0F2F5",
+  "theme_color": "#1877F2",
+  "lang": "en",
+  "dir": "auto",
+  "categories": ["social", "news"],
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
